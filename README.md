@@ -1,2 +1,2 @@
 # Flutter-Tasarim
- flutter widgetlari ile yaptiğim tasarim uygulamalari
+ flutter widgetlari ile yaptiğim google_tv ye benzetilen bir tasarim uygulamasi
